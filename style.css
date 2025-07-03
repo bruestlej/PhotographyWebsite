@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#mynavbar {  
+  background-color: black;
+  border-radius: 5px;
+}
+
+#mynavbar li a {  
+  color: whitesmoke; 
+}
+
+#mynavbar li a:hover {
+  background-color: whitesmoke;   
+  color: black;        
+}
+
+#homeTxt {
+  text-align: center;
+  margin-top: 15%;
+  font-family: 'Alkatra', cursive;
+  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Fasthand', cursive;
+}
+
+#myContainer {
+  background-color: #A69586;
+  color: #182226;
+  font-family: 'Alkatra', cursive;
+  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Fasthand', cursive;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.navbar-brand {
+  font-family: 'Alkatra', cursive;
+}
+
+body {
+  background-color: #344F59;
+  color: #BF861B;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.carousel, .carousel img  {
+    height: 400px;
+    margin: auto;
+}
